@@ -1,0 +1,127 @@
+,DESC_DEFECT
+0, these seat belt assemblies were manufactured without a lap portion that is lockable so as to secure a child safety seat 
+1,  there may be an intermittent fault in the driver's airbag clockspring wiring connector for the supplemental restraint system 
+2,  the sensor designed to detect vehicle roll can malfunction resulting in an inadvertent deployment of the protection system 
+3,  one or more rivets that attach the airbag module to the airbag cover may be missing 
+4,  the driver side frontal airbag has a shorting bar which may intermittently contact the airbag terminals 
+5,  the cable for the occupant classification system (ocs) may become damaged when sliding the passenger seat forward or backward 
+6,  some vehicles may have been built with the incorrect airbag occupant restraint control (orc) module 
+7, the passenger side curtain airbag will not deploy in the event of a side impact collision when the front passenger seat is empty  although the side curtain airbag system was designed to suppress the side curtain airbag 
+8,  the circuits on the control module of the aps may short and cause an inadvertent airbag deployment 
+9,  the affected vehicles may have improperly sized terminal crimps on the seat side-airbag wiring harness which may cause the seat side-airbags to malfunction and illuminate the airbag warning light 
+10, the driver side frontal airbag has a shorting bar which may intermittently contact the airbag terminals 
+11,  the second stage of the dual-stage airbag will not inflate in a severe frontal impact  
+12,  sensors within the passenger occupant detection system (ods) may have been manufactured out of specification   this may cause the system to malfunction and permanently suppress the passenger airbag 
+13,  the affected vehicles have airbag clockspring assemblies that could experience broken airbag circuits 
+14,  these vehicles are equipped with an occupant classification system (ocs) that may not correctly differentiate between a child seat or a very light person being in the front passenger seat 
+15,takata has determined that the inflators in certain frontal passenger-side airbag inflators it manufactured and supplied to various vehicle manufacturers may produce excessive internal pressure causing the inflators to rupture upon deployment of the airbag.
+16,  the occupant restraint control module (orc) has incorrect software installed which may adversely affect airbag deployments in collisions 
+17,"  welding on the passenger airbag inflator may fracture when the airbag is deployed, allowing some gas from the airbag inflator to vent behind the instrument panel, instead of into the airbag "
+18,  a software error may result in the opposite side airbags deploying from the collision point (a left side impact would deploy the right side airbags and vice versa) 
+19,  electrical over-stress of a resistor in the occupant restraint control module may lead to the non-deployment of the active head restraints during a rear impact collision 
+20,"  in the affected vehicles, the drain hose for the air conditioning condenser may become clogged causing water to accumulate at the bottom of the air conditioning condenser unit housing   the accumulated water may then leak through a seam in the housing onto the airbag control module potentially resulting in a short circuit of the module "
+21,"the ocs sensor mat installed in the front passenger seat may fail due to repeated flexing of the mat from use of the seat   as a result, during a crash necessitating deployment, the airbag will deploy regardless of whether the front seat occupant is an adult or a child "
+22,"  due to a production process error, the tear seam on the instrument panel was not manufactured correctly "
+23,the driver side seat mounted airbag wiring may have been improperly routed during the leather seat cover installation process 
+24,"  in the affected vehicles, due to insufficient clearance, the supplemental restraint system (srs) connector located in the driver and front passenger side seat of the vehicle may become disconnected "
+26,the airbag assembly installed in the steering wheel may come loose from its mounting 
+27,  the affected vehicles may experience circuit corrosion from water intrusion around the in-floor battery cover and door footwell trim 
+28, vibrations from the drive shaft may cause the vehicle's roll over sensor to command the roof rail airbags to deploy 
+29, the airbag module is secured to a chute adhered to the backside of the instrument panel with an insufficiently heated infrared weld   this may result in only a partial deployment of the front passenger airbag in the event of a crash  
+30, an improper weld on the passenger side front airbag inflator may result in the airbag not deploying 
+31," the sensing and diagnostic module (sdm) may experience an internal short circuit, resulting in the deactivation of the airbags and seat belt pretensioners "
+32,  the driver side frontal airbag has a shorting bar which may intermittently contact the airbag terminals 
+33,  the seats do not meet internal specifications for injury protection in relation to an unbelted young child 
+34,"if power is interrupted to the seat electronic control unit (ecu), such as when the fuse for that circuit blows, the side airbag would be disabled but there will not be a warning lamp indicator to notify the operator of the malfunction "
+35, the driver's front airbag inflator may have been manufactured with an incorrect part 
+36,"  a component within the occupant classification system (ocs) electronic control unit (ecu) may fail, resulting in the front seat passenger airbag being totally or partially disabled "
+37,"  due to an airbag assembly error, the front passenger airbag may not deploy properly "
+38,road hazards such as potholes may cause the front passenger side curtain and/or seat airbags to deploy unexpectedly 
+39,"  in the event of a driver frontal airbag deployment, the driver airbag module back plate may fracture, allowing the driver airbag to separate from the steering wheel "
+40,"  due to a loss of electrical connection in the steering column, in the event of a severe crash, the driver's frontal airbag deployment may be limited to the first-stage deployment only instead of the intended first-stage and second-stage deployments "
+41,"a light weight adult front seat passenger may be improperly classified by the occupant classification system (ocs) and, as a result, the front seat passenger airbag may be disabled "
+42,"   due to an improper algorithm in the airbag control module, if a crash necessitates deployment of the side airbags, a second impact to the front of the vehicle may not command the front airbags to also deploy "
+43,  the conformal coating of the circuit boards in the affected modules may not have been cured properly which could induce shorting in those circuits 
+44,"  specifically, vehicles sold, or currently registered, in puerto rico, hawaii, the u s  virgin islands, guam, saipan, american samoa, florida and adjacent counties in southern georgia, as well as the coastal areas of alabama, louisiana, mississippi and texas, are susceptible to excessive internal pressure that could cause a rupture "
+45,"  in the affected vehicles, the owner's handbook information may incorrectly describe the functionality of the airbag status indicator lamp"
+46, the affected vehicles have  electrical wiring connections under the front seats that can become dislodged or damaged and prevent the optional front seat sh9 thorax airbags from deploying 
+47,"  the passenger side instrument panel top cover on the affected vehicles may have been manufactured using an incorrect spacer fabric, causing a reduction of adhesion between the spacer fabric and the vinyl show surface   this reduced adhesion may result in inconsistent passenger airbag deployment   "
+48,"due to an increased resistance in the impact sensor for the airbag system, in the event of a crash necessitating deployment of the frontal, side and/or curtain airbags when the srs warning is illuminated, the frontal airbag may have a delayed deployment and/or the side and curtian airbag may not deploy at all "
+49,"  the occupant classification system (ocs) that activates or deactivates the passenger seat airbag system may be improperly calibrated   as a result, the passenger airbag may not deploy in a vehicle crash   "
+50,the affected vehicles have an ignition switch that may experience an intermittent loss of electrical contact 
+51,  the affected vehicles may have an incorrect description of the operation of occupant sensor system (oss) in the owner's manual   since the manual does not correspond with the actual airbag status indicator lamp
+52,"  due to a programming error, the driver's front airbag deployment timing may be incorrect "
+53," accordingly, the automatic occupant sensing (aos) system may fail to suppress the front passenger airbag if a child seat is in the front passenger seat  "
+54,the head protection system (hps) airbag may not be securely connected to the airbag inflator gas generator 
+55,"  due to a fault within the occupant restraint control (ocr) module, the frontal airbags, seat belt pretensioners, and side airbags may be disabled   the malfunction indicator light ?mil? should illuminate to initially warn drivers of a failure "
+56,  the affected vehicles may have left the production facility with a harness for the front airbag system disconnected 
+57, the driver airbag connections may have been wired incorrectly  this could reverse the deployment sequence and disrupt the deployment timing of the driver airbag   
+58,"  the coating on portions of the restraint control module (rcm) may crack, and when exposed to humidity, circuits on the printed circuit board may short "
+59,  the affected units have a power supply component that may corrode and result in the failure of the abcu 
+60, the affected vehicles have seat- mounted side airbag inflator initiators that may fail to ignite during a crash 
+61,"  the affected vehicles have driver and front passenger seat side mounted side airbags (sab) with inflator initiators that may fail to ignite during a crash  ""side impact protection """
+62,"  due to a manufacturing error within the airbag inflators, the passenger frontal airbag may not properly deploy in the event of a crash "
+63, the affected initiators could contain an improper generant mix ratio that may prevent the airbags from deploying properly in the event of a crash 
+64,  the affected vehicles have a driver-side frontal airbag that may not adequately protect the driver's neck from injury in the event of a crash  
+65, the drain hose for the air conditioning may leak into the passenger compartment due to a drain hose installation error during manufacturing 
+66,  the affected vehicles have seat-mounted side airbag inflator initiators that may fail to ignite during a crash 
+67,"  the affected vehicles have driver and front passenger seat side mounted side airbags (sab) with inflator initiators that may fail to ignite during a crash ""side impact protection """
+68,"  the occupant restraint control (ocr) module may short circuit, preventing the frontal airbags, seat belt pretensioners, and side airbags from deploying in the event of a crash "
+69,"  these vehicles were manufactured without a reinforcement plate and protective bracket on the airbag control unit   as a result, the airbag control unit may not remain functional after the initial impact, possibly preventing additional airbags from deploying in response to a secondary impact "
+70,"  certain driving conditions, such as driving off-road or debris striking the vehicle may cause the roll rate sensor to trigger a fault within the occupant restraint controller (orc)   if this fault occurs, the rollover side curtain airbag and the seat belt pretensioner will be disabled from deploying "
+71,"  the outside edge seam of the seat cover may not open up as designed, possibly affecting the deployment of the seat-mounted airbags in the event of a crash "
+72,"  if, while servicing the vehicle, the vehicle does not successfully receive an update to the restraint control module (rcm) software, the default airbag calibration settings may be incorrect "
+73,"  these inflators were assembled as part of the frontal airbag modules, and used as original equipment or replacement equipment, such as after a vehicle crash necessitating replacement of the original airbags   this recall is not for all desiccated psan inflators; rather it relates to a subset containing calcium sulfate "
+74, the affected initiators could contain an improper generant mix ratio that may prevent the airbags and/or the seat belt pretensioners from deploying in the event of a crash 
+75,"  while driving, the front driver, passenger, and side curtain airbags may deploy without warning and without a crash occurring "
+76,"driver and front passenger seatback pads sold as replacement service parts were made without slit openings for the seat-mounted side airbags  in the event of a crash necessitating airbag deployment, the seatback pad would interfere and adversely affect airbag performance   ""side impact protection """
+77," the supplemental restraint system (srs) control unit may have a manufacturing error, possibly resulting in the airbags or seatbelt pretensioners not deploying in the event of a crash "
+78,"  the supplemental restraint system (srs) calibration may be incorrect, possibly causing the frontal airbags to deploy improperly in a low speed crash "
+79,"  during a vehicle repair, the seat belt inner buckles may have been replaced with parts that may incorrectly tell the airbag management system that the seat belt is always buckled "
+80,"  the head airbags in these vehicles may have been damaged during vehicle assembly, possibly causing the head airbags to not fully inflate upon deployment "
+81,"  in the event of a crash, the side curtain/head protection airbags may partially detach from the inflator during airbag deployment, affecting the performance of the airbags   ""ejection mitigation """
+82,"in the event of a crash, the airbag control unit (acu) may short circuit, preventing the frontal airbags, seat belt pretensioners, and side airbags from deploying "
+84, vehicles equipped with super sport seats   the seat-mounted head/thorax airbag in the front passenger seat may have been folded incorrectly during installation 
+85," the airbag electronic control unit (ecu) may erroneously detect a fault during the vehicle start-up self check   if this occurs, the ecu may not deploy the airbags as intended, in the event of a crash   ""side impact protection """
+86, vehicles   the side airbag impact sensors may not have been properly tightened to the vehicle 
+87,  the driver and passenger sun visors may lack the required airbag warning information   
+88,"  the sensing diagnostic module (sdm) on these vehicle may not have been turned off of ""manufacturing mode,"" preventing the airbags from deploying in the event of a crash "
+89, vehicles   the internal acceleration sensor in the supplemental restraint system (srs) electronic control unit (ecu) can misinterpret vibrations such as those from poor road conditions or a flat tire to be a sensor error thereby disabling the airbags from deploying in a crash 
+90,"  due to improper manufacturing, the cushion of the inflatable head cushion (ihc) and knee airbag (kab) may detach during a deployment event and not inflate "
+91,  the occupant restraint controller (orc) may have been incorrectly calibrated 
+92,"vehicles equipped with an electrically adjustable second-row seat   the wiring harness under the seat may become pinched during seat adjustment, possibly causing damage to the wires "
+93,"  due to a problem with the rollover sensor within the airbag control unit, in the event of a rollover crash, the head airbag, seat belt pretensioners and other safety systems, may not activate "
+94," (immi) is recalling certain inflatable head cushions (ihc) and knee airbags (kab)   due to improper manufacturing, the cushion of the ihc and/or kab may detach during a deployment event and not inflate "
+95,"  the driveshaft may not be attached to the intermediate bearing correctly, causing excessive wear to the driveshaft joint and excessive vibrations "
+96,  the impact and acceleration sensors may fail and reduce the airbag system's ability to properly detect certain crash events 
+97,"  due to improper manufacturing, the cushion of the inflatable head cushion (ihc) and knee airbag (kab) may detach during a deployment event and not inflate "
+98,  the supplementary restraint system (srs) control unit may not have been properly attached to the car body and may detach during a crash 
+99,  incorrect seat trim covers on one or both of the front seats can prevent the seat-mounted side airbag from deploying properly 
+100,  the front seat airbag fasteners may not have been tightened correctly 
+101,  the airbags may not properly inflate in the event of a crash 
+102,  prior exposure to excessive levels of humidity within the driver and passenger head airbag inflators may affect the proper deployment of the head airbags 
+103,  the locking nut fasteners on the passenger airbag may not be tightened properly 
+104,"  the airbag electronic control unit (ecu) may malfunction, possibly causing the non-deployment or improper deployment of the airbags and/or seat belt pretensioners "
+105,"  due to improper manufacturing, the passenger-side knee airbag (kab) may not properly inflate during a deployment event "
+106,"vehicles may be equipped with an  incorrectly manufactured airbag sensor, which can delay or disable airbag deployment when necessary "
+107, vehicles  the airbag electronic control unit (ecu) may have a defective power supply capacitor that can cause a deactivation or inadvertent deployment of the airbag 
+108,  the wiring harnesses for the front seats may have been routed incorrectly and could become jammed and damaged in the swivel seat frames 
+109," vehicles  the internal acceleration sensor in the supplemental restraint system (srs) electronic control unit (ecu) can misinterpret vibrations, such as from poor road conditions or a flat tire, as a malfunction and disable all the vehicle's airbags "
+110,"  the flash memory of the occupant restraint controller (orc) may become corrupted, disabling the vehicle's airbags and seat belt pretensioners "
+111,the wiring harnesses for the front seats may have been routed incorrectly and could become jammed and damaged in the swivel seat frames 
+112,"   the seat cushion frame edge may contact the wire harness when the seat occupant uses the tilt function of the seat, potentially damaging one or more wires within the harness, which can result in either inadvertent deployment of the airbag or nondeployment of the airbag in the event of a crash "
+113,"  the sensors in the front seat belt buckles may inaccurately detect a belted occupant as unbelted, possibly causing the airbag and seat belt pretensioners to deploy improperly in the event of a crash "
+114,  the driver and passenger head airbags may not have been properly aligned with the trim during installation 
+115,  the affected vehicles may have an improperly crimped diffuser in the side curtain airbag which may result in the diffuser detaching from the inflator in the event of an airbag deployment 
+116,"vehicles   the airbag crash sensors may have been exposed to excessively high temperatures during manufacturing, resulting in damaged soldering connections within the sensors "
+117," the roof rail side-curtain airbags may not have been installed correctly, which could result in an improper airbag deployment during a crash "
+118, the driver's airbag cushion may tear during deployment 
+119," the sensing diagnostic module (sdm) may have been left in ""manufacturing mode"" and not activated at the assembly plant prior to shipment   "
+120,"  the occupant restraint controller (orc) may have incorrect software which can disable the driver, passenger, and knee airbags without warning "
+121,"  trim parts on both front seats may detach during rear airbag deployment, which can damage the airbag cushion or cause the airbag to deploy improperly "
+122,"  the driver's airbag and the occupant restraint controller may be improperly connected, which can result in a deactivated driver's airbag that will not deploy in a crash "
+123,  the strength of the driver-side airbag cover may be insufficient 
+124,   the score line on the passenger airbag may not have been manufactured correctly 
+125,"  an improperly crimped clamp may allow the side curtain airbag cushion and inflator to separate, causing an incomplete deployment or preventing the deployment of the airbag "
+126,  the airbag control unit (acu) cover may contact a memory chip on the printed circuit board and damage the electrical circuit   circuit damage may result in deactivated airbags that will not deploy in a crash 
+127,"  the right-side instrument panel cover may have been manufactured incorrectly, which can cause the airbag to not deploy as intended   "
